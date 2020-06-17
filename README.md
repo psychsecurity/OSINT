@@ -35,5 +35,9 @@ Cheatsheet for OSINT - check out https://osintframework.com for detailed framewo
 
 `docker run -v $HOME/.config/subfinder:/root/.config/subfinder -it projectdiscovery/subfinder -d domain.com`
 
+### fierce
+
+`fierce -dns domain.com`
+
 
 
